@@ -1,17 +1,3 @@
-/***********************************************************************
-* Program:
-*    Project 07, Calendar
-*    Brother Ridges, CS124
-* Author:
-*    Erik Rybalkin
-* Summary:
-*    This program prompts a user for year and month values, and
-*    converts that data into a well formatted table of dates.
-*
-*    Estimated:  3.0 hrs
-*    Actual:     4.20 hrs
-*      Didn't have problems with this program
-************************************************************************/
 #include <iostream>
 #include <iomanip>
 using namespace std;
